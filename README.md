@@ -19,6 +19,8 @@ MacOS: IntelliJ IDEA -> Preferences
 ![image](https://github.com/user-attachments/assets/47ace7ea-562a-4e7b-8ab3-ccc60e34b8d1)
 
 
-![img_2.png](img_2.png)
+![image](https://github.com/user-attachments/assets/f0eecd41-dd7e-44d3-9336-ef55aacf88e2)
+
 После запуска откроется окно Services, где вы можете посмотреть образы, контейнеры и запущенные с помощью Docker compose сервисы:
-![img_3.png](img_3.png)
+
+![image](https://github.com/user-attachments/assets/efce7690-96fd-4bf1-8ae1-fd15f183a6b8)
