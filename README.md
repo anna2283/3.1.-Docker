@@ -16,7 +16,8 @@ MacOS: IntelliJ IDEA -> Preferences
 
 Теперь при открытии файлов Dockerfile, docker-compose.yml IDEA будет предлагать автодополнение и возможность запуска прямо из окна редактора:
 
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/47ace7ea-562a-4e7b-8ab3-ccc60e34b8d1)
+
 
 ![img_2.png](img_2.png)
 После запуска откроется окно Services, где вы можете посмотреть образы, контейнеры и запущенные с помощью Docker compose сервисы:
