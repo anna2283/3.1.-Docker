@@ -8,7 +8,9 @@ MacOS: IntelliJ IDEA -> Preferences
 
 Найдите в поиске раздел Plugins:
 
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/aa52f99f-17f4-4c10-8a0e-be8f1014a3fe)
+
+
 
 Нажмите на кнопку Install, после установки перезапустите IDEA.
 
